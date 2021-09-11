@@ -1,9 +1,4 @@
-﻿//Lab_02.cpp
-//Федик Віталій
-//Лабораторна робота №2.1.
-//Лінійні програми
-//Варіант 11
-#include <iostream>
+﻿#include <iostream>
 using namespace std;
 int main()
 {
